@@ -1,0 +1,4 @@
+1.根据http://blog.csdn.net/gebitan505/article/details/44455235/博客进行搭建的，搭建成功
+2.照着搭建完，一开始启动报错，最后才发现是用mybatis-generator-core-1.3.2生成的mapper文件里面的内容复制了一个
+3.jdbc.properties中文数据库访问配置需要修改全，以及隐藏的空格要手动删除
+4.
